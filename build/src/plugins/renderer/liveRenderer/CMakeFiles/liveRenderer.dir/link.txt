@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -shared -Wl,-soname,liveRenderer.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/renderer/liveRenderer.so CMakeFiles/liveRenderer.dir/Renderer.cpp.o CMakeFiles/liveRenderer.dir/RendererEntry.cpp.o 

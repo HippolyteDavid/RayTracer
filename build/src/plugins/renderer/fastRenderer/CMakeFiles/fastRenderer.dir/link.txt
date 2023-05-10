@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -shared -Wl,-soname,fastRenderer.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/renderer/fastRenderer.so CMakeFiles/fastRenderer.dir/Renderer.cpp.o CMakeFiles/fastRenderer.dir/RendererEntry.cpp.o 

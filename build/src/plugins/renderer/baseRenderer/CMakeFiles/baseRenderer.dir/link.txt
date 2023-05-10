@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -shared -Wl,-soname,baseRenderer.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/renderer/baseRenderer.so CMakeFiles/baseRenderer.dir/Renderer.cpp.o CMakeFiles/baseRenderer.dir/RendererEntry.cpp.o 

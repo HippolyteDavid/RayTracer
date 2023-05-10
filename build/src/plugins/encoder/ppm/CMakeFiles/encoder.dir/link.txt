@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -shared -Wl,-soname,encoder.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/encoder/encoder.so CMakeFiles/encoder.dir/PpmEncoder.cpp.o CMakeFiles/encoder.dir/PpmEncoderEntry.cpp.o 

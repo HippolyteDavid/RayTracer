@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -shared -Wl,-soname,plane.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/primitives/plane.so CMakeFiles/plane.dir/Plan.cpp.o CMakeFiles/plane.dir/PlanEntry.cpp.o 
