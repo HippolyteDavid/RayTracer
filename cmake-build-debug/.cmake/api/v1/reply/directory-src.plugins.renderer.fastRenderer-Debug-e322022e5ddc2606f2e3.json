@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "src/plugins/renderer/fastRenderer",
+		"source" : "src/plugins/renderer/fastRenderer"
+	}
+}

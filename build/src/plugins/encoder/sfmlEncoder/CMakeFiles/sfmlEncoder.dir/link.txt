@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,sfmlEncoder.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/encoder/sfmlEncoder.so CMakeFiles/sfmlEncoder.dir/Encoder.cpp.o CMakeFiles/sfmlEncoder.dir/EncoderEntry.cpp.o  -lsfml-graphics -lsfml-window -lsfml-system 

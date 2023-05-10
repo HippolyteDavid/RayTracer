@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,torus.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/primitives/torus.so CMakeFiles/torus.dir/Torus.cpp.o CMakeFiles/torus.dir/TorusEntry.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,cone.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/primitives/cone.so CMakeFiles/cone.dir/Cone.cpp.o CMakeFiles/cone.dir/ConeEntry.cpp.o 

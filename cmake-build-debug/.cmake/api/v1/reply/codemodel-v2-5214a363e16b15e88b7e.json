@@ -1,0 +1,417 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						16
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "src/plugins",
+					"childIndexes" : 
+					[
+						2,
+						7,
+						10,
+						14
+					],
+					"jsonFile" : "directory-src.plugins-Debug-c890ce78f5a8963559ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/plugins"
+				},
+				{
+					"build" : "src/plugins/primitives",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6
+					],
+					"jsonFile" : "directory-src.plugins.primitives-Debug-3bbc796a269cd467848a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/plugins/primitives"
+				},
+				{
+					"build" : "src/plugins/primitives/cone",
+					"jsonFile" : "directory-src.plugins.primitives.cone-Debug-f7d7d1c5a5ad71499ce8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "src/plugins/primitives/cone",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "src/plugins/primitives/cylinder",
+					"jsonFile" : "directory-src.plugins.primitives.cylinder-Debug-cb63012c3ee7f683affe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "src/plugins/primitives/cylinder",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "src/plugins/primitives/plan",
+					"jsonFile" : "directory-src.plugins.primitives.plan-Debug-b80a3836bdb88500da76.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "src/plugins/primitives/plan",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "src/plugins/primitives/sphere",
+					"jsonFile" : "directory-src.plugins.primitives.sphere-Debug-b67eb9052311f0948791.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "src/plugins/primitives/sphere",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "src/plugins/renderer",
+					"childIndexes" : 
+					[
+						8,
+						9
+					],
+					"jsonFile" : "directory-src.plugins.renderer-Debug-399e596dec81bb951e01.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/plugins/renderer"
+				},
+				{
+					"build" : "src/plugins/renderer/baseRenderer",
+					"jsonFile" : "directory-src.plugins.renderer.baseRenderer-Debug-4c09e6ab3a264b7bc40e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "src/plugins/renderer/baseRenderer",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/plugins/renderer/fastRenderer",
+					"jsonFile" : "directory-src.plugins.renderer.fastRenderer-Debug-e322022e5ddc2606f2e3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 0,
+					"source" : "src/plugins/renderer/fastRenderer",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "src/plugins/lights",
+					"childIndexes" : 
+					[
+						11,
+						12,
+						13
+					],
+					"jsonFile" : "directory-src.plugins.lights-Debug-9bf54c4f67f5da75e74f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/plugins/lights"
+				},
+				{
+					"build" : "src/plugins/lights/ambient",
+					"jsonFile" : "directory-src.plugins.lights.ambient-Debug-bf9e41e969a72da3fd7e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "src/plugins/lights/ambient",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/plugins/lights/point",
+					"jsonFile" : "directory-src.plugins.lights.point-Debug-e2a152050807c3bd02e9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "src/plugins/lights/point",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "src/plugins/lights/directional",
+					"jsonFile" : "directory-src.plugins.lights.directional-Debug-c10839d0615eb6ded6d7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 10,
+					"projectIndex" : 0,
+					"source" : "src/plugins/lights/directional",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "src/plugins/encoder",
+					"childIndexes" : 
+					[
+						15
+					],
+					"jsonFile" : "directory-src.plugins.encoder-Debug-1e6fbfba68a6ccf3a90a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/plugins/encoder"
+				},
+				{
+					"build" : "src/plugins/encoder/ppm",
+					"jsonFile" : "directory-src.plugins.encoder.ppm-Debug-4dafd90d6c633a052a8f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 0,
+					"source" : "src/plugins/encoder/ppm",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "_deps/nlohmann_json-build",
+					"jsonFile" : "directory-_deps.nlohmann_json-build-Debug-c2199c334631578a77c0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "cmake-build-debug/_deps/nlohmann_json-src"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					],
+					"name" : "$(BIN_NAME)",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "nlohmann_json",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 11,
+					"id" : "ambient::@136926f1c4bde003a5ec",
+					"jsonFile" : "target-ambient-Debug-b65108293d7779dfa48f.json",
+					"name" : "ambient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "baseRenderer::@5a6a05a81d4f4f34b4b6",
+					"jsonFile" : "target-baseRenderer-Debug-516faba98aea94aff8bd.json",
+					"name" : "baseRenderer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "cone::@ec272cc69211fac31d5a",
+					"jsonFile" : "target-cone-Debug-987ded527b87e8ae1351.json",
+					"name" : "cone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "cylinder::@268e3398cbc054792639",
+					"jsonFile" : "target-cylinder-Debug-740d480f61cc6f73179b.json",
+					"name" : "cylinder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "directional::@9f91407e1ebe7a208483",
+					"jsonFile" : "target-directional-Debug-a56f3508e7fe15a9fb18.json",
+					"name" : "directional",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "encoder::@aca23acb76060323aa1f",
+					"jsonFile" : "target-encoder-Debug-f5ca10a216009a67af4e.json",
+					"name" : "encoder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "fastRenderer::@5044640c2853dd2d8b6f",
+					"jsonFile" : "target-fastRenderer-Debug-5323a85a2f764b4e0e0d.json",
+					"name" : "fastRenderer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "plane::@e789c3474fa0a7e2d827",
+					"jsonFile" : "target-plane-Debug-33d77f3c9b38996c5ff6.json",
+					"name" : "plane",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "point::@d5bc62e515fcb750127f",
+					"jsonFile" : "target-point-Debug-116e62a01eb9dfd0a554.json",
+					"name" : "point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "raytracer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-raytracer-Debug-7848f7e8589e4cf91908.json",
+					"name" : "raytracer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "sphere::@5aff164976d18e961592",
+					"jsonFile" : "target-sphere-Debug-0331a03b5173dd08efec.json",
+					"name" : "sphere",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/Hippolyte_D/Work/Tech2/OOP/raytracer/cmake-build-debug",
+		"source" : "/home/Hippolyte_D/Work/Tech2/OOP/raytracer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

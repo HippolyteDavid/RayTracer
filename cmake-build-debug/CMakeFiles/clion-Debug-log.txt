@@ -1,0 +1,8 @@
+/home/Hippolyte_D/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/Hippolyte_D/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/linux/x64/ninja -G Ninja -S /home/Hippolyte_D/Work/Tech2/OOP/raytracer -B /home/Hippolyte_D/Work/Tech2/OOP/raytracer/cmake-build-debug
+Warning flags: -Wall;-Wextra;-pedantic;-Wold-style-cast;-Wcast-align;-Wunused;-Woverloaded-virtual;-Wpedantic;-Wconversion;-Wsign-conversion;-Wdouble-promotion;-Wformat=2;-Wno-padded;-Wno-ctad-maybe-unsupported;-Wmisleading-indentation;-Wduplicated-cond;-Wduplicated-branches;-Wlogical-op;-Wnull-dereference;-Wuseless-cast;-fno-gnu-unique
+-- Loading library
+-- Using the multi-header code from /home/Hippolyte_D/Work/Tech2/OOP/raytracer/cmake-build-debug/_deps/nlohmann_json-src/include/
+-- Finished loading library
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/Hippolyte_D/Work/Tech2/OOP/raytracer/cmake-build-debug

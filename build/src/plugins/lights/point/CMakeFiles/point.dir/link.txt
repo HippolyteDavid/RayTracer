@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,point.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/lights/point.so CMakeFiles/point.dir/PointLight.cpp.o CMakeFiles/point.dir/PointEntry.cpp.o 

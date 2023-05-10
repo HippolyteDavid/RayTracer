@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,directional.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/lights/directional.so CMakeFiles/directional.dir/DirectionalLight.cpp.o CMakeFiles/directional.dir/DirectionalEntry.cpp.o 

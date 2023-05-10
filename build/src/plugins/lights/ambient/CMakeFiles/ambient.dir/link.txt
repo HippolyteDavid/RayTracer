@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -shared -Wl,-soname,ambient.so -o /home/Hippolyte_D/Work/Tech2/OOP/raytracer/plugins/lights/ambient.so CMakeFiles/ambient.dir/AmbientLight.cpp.o CMakeFiles/ambient.dir/AmbientEntry.cpp.o 
